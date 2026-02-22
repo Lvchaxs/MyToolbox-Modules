@@ -6,7 +6,7 @@
       "moduleName": "快速拾取",
       "currentVersion": "1.0.0",
       "latestVersion": "1.0.1",
-      "downloadUrl": "https://raw.githubusercontent.com/Lvchaxs/MyToolbox-Modules/main/QuickPickModule/QuickPickModule_v1.0.0.dll",
+      "downloadUrl": "https://raw.githubusercontent.com/Lvchaxs/MyToolbox-Modules/main/QuickPickModule/QuickPickModule_v1.0.1.dll",
       "size": 0,
       "description": "一键快速拾取材料",
       "releaseDate": "2025-02-23"
@@ -16,7 +16,7 @@
       "moduleName": "快速传送",
       "currentVersion": "1.0.0",
       "latestVersion": "1.0.1",
-      "downloadUrl": "https://raw.githubusercontent.com/Lvchaxs/MyToolbox-Modules/main/QuickTeleportModule/QuickTeleportModule_v1.0.0.dll",
+      "downloadUrl": "https://raw.githubusercontent.com/Lvchaxs/MyToolbox-Modules/main/QuickTeleportModule/QuickTeleportModule_v1.0.1.dll",
       "size": 0,
       "description": "一键快速传送锚点",
       "releaseDate": "2025-02-23"
@@ -24,4 +24,5 @@
   ]
 
 }
+
 
