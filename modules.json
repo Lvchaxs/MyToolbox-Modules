@@ -15,7 +15,7 @@
       "moduleId": "QuickTeleportModule",
       "moduleName": "快速传送",
       "currentVersion": "1.0.0",
-      "latestVersion": "1.0.0",
+      "latestVersion": "1.0.1",
       "downloadUrl": "https://raw.githubusercontent.com/Lvchaxs/MyToolbox-Modules/main/QuickTeleportModule/QuickTeleportModule_v1.0.0.dll",
       "size": 0,
       "description": "一键快速传送锚点",
@@ -24,3 +24,4 @@
   ]
 
 }
+
